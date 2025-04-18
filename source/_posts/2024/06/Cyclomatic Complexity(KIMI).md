@@ -2,7 +2,7 @@
 layout: post
 title: Cyclomatic Complexity(KIMI)
 date: 2024-06-11
-tags: ["KIMI","Q&amp;A"]
+tags: ["KIMI","jacoco"]
 ---
 
 今天把问chatgpt的问答又问了一遍kimi,发现kimi在回答上明显要好于chatgpt.
