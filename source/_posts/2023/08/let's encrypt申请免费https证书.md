@@ -9,6 +9,7 @@ tags: ["https","letsencrypt","免费证书","日常"]
 
     sudo apt-get update
     sudo apt-get install certbot
+<--more-->
 
 在申请证书的同时,`let's encrypt`会效验域名的合法性,以webroot模式为例,certbot会在-w目录下生成一个`/.well-known/acme-challenge/xxx`的文件,然后调用要生成域名访问这个文件,文件访问成功则认为域名是合法的,所以要先让`certbot`访问到该域名下生成的文件，
 修改ngix配置如下：

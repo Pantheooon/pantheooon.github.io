@@ -8,6 +8,7 @@ tags: ["elk","kafka","splunk","开发","日志"]
 # logback or log4j or slf4j
 
 很多人对这些组件感到很熟悉,但是又有点陌生,这里主要介绍这几个组件的来历.
+<--more-->
 
 在`javase1.4`的时候,`sun`公司发布了一个`JUL(Java Util Logging)`日志组件,这个组件存在一些问题,比如配置缺乏灵活性,功能有限.甚至还有性能问题,俄罗斯程序员`Ceki Gülcü`设计了一款日志组件`log4j`,它完美解决了`JUL`的上述问题,后来这哥们就把`log4j`捐给了`apache`,在这段时间里面`Ceki Gülcü`对`apache`的管理方式颇有言辞,就另起炉灶创造出来了`logback`,同时`logback`和`log4j`之间的api有差异性,又创造出了`slf4j`,所以`slf4j`最早是为了解决`logback`和`log4j`兼容性而开发的,再后来`apache`因为`logback`受到冲击,停止维护`log4j`,转而开发新的日志组件`log4j2`,至此故事告一段落.
 
