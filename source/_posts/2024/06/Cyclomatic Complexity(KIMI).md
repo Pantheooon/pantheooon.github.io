@@ -6,7 +6,7 @@ tags: ["KIMI","Q&amp;A"]
 ---
 
 今天把问chatgpt的问答又问了一遍kimi,发现kimi在回答上明显要好于chatgpt.
-<--more-->
+<!--more-->
 
 I:**代码覆盖率统计中,什么是Cyclomatic Complexity**
 

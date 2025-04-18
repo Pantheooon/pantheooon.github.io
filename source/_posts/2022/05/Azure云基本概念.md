@@ -10,7 +10,7 @@ tags: ["Azure","日常"]
 *   subscription
 
     同一个subscription下的资源,账单是在一起出的,在实际应用中,可以按照部门来创建不同的subscription,也可以根据不同的环境,比如test,stg,pro来划分不同的subscription.
-    <--more-->
+    <!--more-->
 
     subscription总共有这样几个类型
 

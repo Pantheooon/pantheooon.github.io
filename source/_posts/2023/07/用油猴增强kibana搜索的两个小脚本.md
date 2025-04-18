@@ -8,7 +8,7 @@ tags: ["kibana","日常","油猴"]
 # 1.kibana exclude
 
 搜索kibana日志有时需要排除掉某些phrase,这个脚本选中需要排除的phrase,然后重新搜索日志
-<--more-->
+<!--more-->
 
     // ==UserScript==
     // @name         kibana exclude

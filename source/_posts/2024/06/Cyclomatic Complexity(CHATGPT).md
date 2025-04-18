@@ -6,7 +6,7 @@ tags: ["chatgpt","jacoco","Q&amp;A"]
 ---
 
 最近在看jacoco的原理,对Cyclomatic Complexity产生了一点疑问,问了下chatgpt,基本知道他两啥关系,问答如下:
-<--more-->
+<!--more-->
 
 **Pantheon：** 代码覆盖率统计中,什么是Cyclomatic Complexity 
 
