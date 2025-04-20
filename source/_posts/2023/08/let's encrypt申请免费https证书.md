@@ -2,7 +2,7 @@
 layout: post
 title: let's encrypt申请免费https证书
 date: 2023-08-08
-tags: ["https","letsencrypt","免费证书","日常"]
+tags: ["https","letsencrypt","免费证书"]
 ---
 
 首先要去安装`let's encrypt`使用的客户端`certbot`,

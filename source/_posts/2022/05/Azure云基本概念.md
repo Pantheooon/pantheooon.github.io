@@ -2,7 +2,7 @@
 layout: post
 title: Azure云基本概念
 date: 2022-05-09
-tags: ["Azure","日常"]
+tags: ["Azure"]
 ---
 
 # 1.基本概念

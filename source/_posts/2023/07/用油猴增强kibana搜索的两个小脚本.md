@@ -2,7 +2,7 @@
 layout: post
 title: 用油猴增强kibana搜索的两个小脚本
 date: 2023-07-24
-tags: ["kibana","日常","油猴"]
+tags: ["kibana","随笔","油猴"]
 ---
 
 # 1.kibana exclude
