@@ -858,6 +858,7 @@ three:
   canvas_lines: false
   canvas_sphere: false
 
+
 # Canvas-ribbon
 # Dependencies: https://github.com/theme-next/theme-next-canvas-ribbon
 # For more information: https://github.com/zproo/canvas-ribbon
